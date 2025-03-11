@@ -21,6 +21,14 @@ MCP Server for the Perplexity API.
 
 ### Install
 
+#### Installing via Smithery
+
+To install mcp-server-perplexity for Claude Desktop automatically via [Smithery](https://smithery.ai/server/mcp-server-perplexity):
+
+```bash
+npx -y @smithery/cli install mcp-server-perplexity --client claude
+```
+
 #### Claude Desktop
 
 - On macOS: `~/Library/Application\ Support/Claude/claude_desktop_config.json`  
